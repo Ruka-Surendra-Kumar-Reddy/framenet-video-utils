@@ -1,4 +1,4 @@
-# pyproject.toml
+# pyproject.toml (Final Version)
 
 [build-system]
 requires = ["setuptools>=61.0"]
@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 name = "framenet-video-utils"
 version = "1.0.0"
 authors = [
-    { name="FrameNet.ai Team", email="dev@framenet.ai" },
+    { name="Surendra Kumar Reddy", email="surendraruka514@gmail.com" },
 ]
 description = "A simple utility to get details like duration, resolution, and FPS from a video file."
 readme = "README.md"
@@ -30,6 +30,6 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://www.framenet.ai"
-Documentation = "https://github.com/framenet-ai/framenet-video-utils"
-Repository = "https://github.com/framenet-ai/framenet-video-utils"
-"Bug Tracker" = "https://github.com/framenet-ai/framenet-video-utils/issues"
+Documentation = "https://github.com/Ruka-Surendra-Kumar-Reddy/framenet-video-utils/"
+Repository = "https://github.com/Ruka-Surendra-Kumar-Reddy/framenet-video-utils/"
+"Bug Tracker" = "https://github.com/Ruka-Surendra-Kumar-Reddy/framenet-video-utils/issues"
