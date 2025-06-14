@@ -1,6 +1,7 @@
 # FrameNet Video Utils
 ![alt text](https://badge.fury.io/py/framenet-video-utils.svg)
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A simple, zero-dependency Python utility for getting video file details like duration, resolution, and frame rate.
 This is a simple, open-source utility developed and maintained by the team at FrameNet.ai, the AI-powered platform that makes video editing effortless.
 
